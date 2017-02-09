@@ -1,2 +1,2 @@
-print("Hello, what's up? How art thou?")
+print("Hello, Scuba Steve? How art thou?")
 
